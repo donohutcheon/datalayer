@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/donohutcheon/gowebserver/datalayer"
+	"github.com/donohutcheon/datalayer"
 )
 
 func (m *MockDataLayer) getNextContactID() int64 {

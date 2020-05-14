@@ -2,7 +2,7 @@ package mockdatalayer
 
 import (
 	"encoding/json"
-	"github.com/donohutcheon/gowebserver/datalayer"
+	"github.com/donohutcheon/datalayer"
 	"io/ioutil"
 )
 
