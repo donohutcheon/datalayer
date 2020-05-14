@@ -1,0 +1,16 @@
+# github.com/donohutcheon/gowebserver v0.0.0-20200419220449-4165f6a0f32c
+## explicit
+github.com/donohutcheon/gowebserver/controllers/response
+github.com/donohutcheon/gowebserver/datalayer
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/jmoiron/sqlx v1.2.0
+## explicit
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/joho/godotenv v1.3.0
+github.com/joho/godotenv
+# github.com/xo/dburl v0.0.0-20200124232849-e9ec94f52bc3
+## explicit
+github.com/xo/dburl
